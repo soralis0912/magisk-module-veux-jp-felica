@@ -1,0 +1,7 @@
+id=veux-jp-felica
+name=Patch for Xiaomi Redmi Note 11 Pro 5G Japan
+version=v01
+versionCode=1
+author=soralis0912
+description=Xiaomi Redmi Note 11 Pro 5G 日本版Felica有効化パッチ
+updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-veux-jp-felica/master/update.json
