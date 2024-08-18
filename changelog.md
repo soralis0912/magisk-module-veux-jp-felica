@@ -3,3 +3,6 @@
 
 ### v3 - 2024/07/14
 * Move app to product
+
+### v4 - 2024/08/18
+* Update app versions
